@@ -10,3 +10,7 @@ print(b)
 
 c = 2*2.3
 print(type(c))
+
+aa=None
+print(type(aa))
+
